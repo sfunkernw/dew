@@ -1,0 +1,2 @@
+flask
+pyjwt==0.4.3
